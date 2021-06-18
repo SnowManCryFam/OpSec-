@@ -59,7 +59,7 @@
 | Web site  | purpose   | Link |
 | :-------------   | :----------   | :----------   |
 | Have I Been Pwned? | Check your existing email addresses, if the email address is found in any data breach, make sure to change | https://haveibeenpwned.com/   |
-|Two Factor Auth| (probably best to mention SMS 2FA is susceptible to simswaps, best to use a software or hardware tokens, and never setup with SMS MFA) | https://twofactorauth.org/  |
+|Two Factor Auth| (probably best to mention SMS 2FA is susceptible to simswaps, best to use a software or hardware tokens, and never setup with SMS MFA) |   |
 
 ### Password Managers - Use a password manager with unique random passwords on every single site
 | Password Manager | Link                         |
